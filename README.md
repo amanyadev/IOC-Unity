@@ -1,4 +1,4 @@
-# Inversion of Control (IoC) Implementation in Unity
+# Inversion of Control (IoC) Implementation in C#(compatible with Unity): Simple, Straightforward, Fast!
 
 This repository contains a robust implementation of Inversion of Control (IoC) and Dependency Injection (DI) in Unity, providing a flexible solution for managing dependencies within Unity projects.
 
